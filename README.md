@@ -1,16 +1,23 @@
-## Hi there 👋
+# ZA Digital Solutions
 
-<!--
-**ZADigitalSolutions/ZADigitalSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python automation for CSV/Excel** (24–48h delivery)  
+Cleaning • Merging • Reports • Splitting  
+**Communication:** text-only
 
-Here are some ideas to get you started:
+## What I do
+- Clean & standardize messy datasets
+- Merge multiple CSV/Excel files (join/append)
+- Generate summary reports (grouping, totals)
+- Split large files by rules (per client, region, date, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Deliverables
+- `automation.py` (reusable script)
+- `output.csv` / `output.xlsx`
+- `README.txt` (how to run)
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ziyad-a-76b24419b/
+- Reddit: https://www.reddit.com/user/ZADigitalSolutions/
+
+## Portfolio
+Pinned repos will appear here soon ✅
